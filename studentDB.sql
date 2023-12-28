@@ -1,0 +1,1 @@
+SELECT * FROM studentaff1.users;
